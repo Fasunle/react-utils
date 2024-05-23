@@ -1,8 +1,10 @@
 {
-  "name": "react-utils",
+  "name": "fasunle-react-utils",
   "version": "1.0.0",
   "description": "A react utility package. It's built for web but also works on react-native",
   "main": "index.js",
+  "repository": "Fasunle/react-utils",
+  "homepage": "https://github.com/Fasunle/react-utils#README",
   "scripts": {
     "build": "tsc",
     "lint": "tslint 'src/**/*.ts'",
